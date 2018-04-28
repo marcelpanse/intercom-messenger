@@ -1,0 +1,15 @@
+{
+    "name": "webtasks-nodejs",
+    "version": "1.0.0",
+    "description": "Intercom Messenger App using AWS Lambda and Serverless",
+    "main": "handler.js",
+    "keywords": [
+        "serverless",
+        "webtasks",
+        "Intercom",
+        "Messenger"
+    ],
+    "devDependencies": {
+        "@webtask/serverless-webtasks": "^1.0.1"
+    }
+}
